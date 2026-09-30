@@ -1,0 +1,12 @@
+{
+  "name": "Franco - FTP Server",
+  "payloads": [
+    {
+      "name": "ftpsrv",
+      "filename": "ftpsrv.elf",
+      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/latest/download/ftpsrv-ps5.elf",
+      "description": "Standalone FTP server for PS5, port 2121",
+      "category": "Networking & Servers"
+    }
+  ]
+}
