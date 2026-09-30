@@ -1,0 +1,13 @@
+{
+  "name": "Franco - WebKit Autoloader",
+  "payloads": [
+    {
+      "name": "WebKit Autoloader Installer",
+      "filename": "webkit-autoloader-installer_v0.5.2.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
+      "description": "WebKit Autoloader installer v0.5.2",
+      "version": "v0.5.2",
+      "category": "Jailbreak & Loader"
+    }
+  ]
+}
