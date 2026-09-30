@@ -1,0 +1,12 @@
+{
+  "name": "Franco - nanoDNS",
+  "payloads": [
+    {
+      "name": "nanoDNS",
+      "filename": "nanodns.elf",
+      "url": "https://github.com/drakmor/nanoDNS/releases/latest/download/nanodns.elf",
+      "description": "Latest nanoDNS for PS5",
+      "category": "Networking"
+    }
+  ]
+}
