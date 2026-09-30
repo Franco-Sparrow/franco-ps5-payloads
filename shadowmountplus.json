@@ -1,0 +1,12 @@
+{
+  "name": "Franco - ShadowMountPlus",
+  "payloads": [
+    {
+      "name": "ShadowMountPlus",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/latest/download/shadowmountplus.elf",
+      "description": "Latest ShadowMountPlus",
+      "category": "Storage"
+    }
+  ]
+}
