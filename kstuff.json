@@ -1,0 +1,12 @@
+{
+  "name": "Franco - kstuff",
+  "payloads": [
+    {
+      "name": "kstuff-lite",
+      "filename": "kstuff.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/latest/download/kstuff.elf",
+      "description": "Latest kstuff-lite",
+      "category": "System & Jailbreak"
+    }
+  ]
+}
